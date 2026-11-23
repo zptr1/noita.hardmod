@@ -27,7 +27,6 @@
 		camera_shake_when_shot="8.0"
 		create_shell_casing="1"
 		shell_casing_material="plastic_red"
-		bounces_left="2"
 		bounce_at_any_angle="1"
 		shoot_light_flash_radius="100" 
 		ragdoll_fx_on_collision="BLOOD_EXPLOSION"
